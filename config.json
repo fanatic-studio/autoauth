@@ -1,0 +1,5 @@
+{
+	"desc": "本机号码一键登录",
+	"requireFormatName": "ivdeAutoAuth",
+	"requireName": "ivde/AutoAuth"
+}
